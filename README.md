@@ -18,10 +18,10 @@ CAST (Connected and Intelligent Autonomous System Research Group) is a leading r
 
 ### Team Members:
  
-##### [Dr. Abderrahmane Lakas](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=alakas@uaeu.ac.ae),Lead
+[Dr. Abderrahmane Lakas](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=alakas@uaeu.ac.ae),Lead
 Associate Professor, Networking & Autonomous Systems
 
-##### [Dr. Hesham El-Sayed](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=helsayed@uaeu.ac.ae)
+[Dr. Hesham El-Sayed](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=helsayed@uaeu.ac.ae)
 Associate Professor, Networking & Edge Computing
 
 ##### [Dr. Parag Kulkarni](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=parag@uaeu.ac.ae)
