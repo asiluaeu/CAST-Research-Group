@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## CAST Research Group
 
-You can use the [editor on GitHub](https://github.com/asiluaeu/CAST-Research-Group/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+CAST (Connected and Intelligent Autonomous System Research Group) is a leading research group based at UAE University. CAST is primarily engaged with the design and and development of methods and techniques that facilitate the deployment of smart applications based on networked smart autonomous (ground and aerial vehicles), Internet of Things (IoT), and neuro-engineering brain-computer interactions (BCI) applications. The group is composed of dynamic faculty members, researchers and students, as well as world-wide visiting researchers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Facility:
+#### ASIL (Autonomous Systems and IoT Lab), UAE University, CIT/E1-2009		
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Research Topics:
 
-- Bulleted
-- List
+- UAV applications and services for smart urban environment.
+- Anti-UAV defense and UAV detection using RF and computer-vision techniques.
+- Autonomous ground and aerial Vehicles using artificial intelligence techniques.
+- Context based autonomy in challenging and harsh environment.
+- Coordinated multi-UAV tasks using BCI-based techniques.
 
-1. Numbered
-2. List
+### Team Members:
+ 
+#### [Dr. Abderrahmane Lakas](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=alakas@uaeu.ac.ae), Lead
+Associate Professor, Networking & Autonomous Systems
 
-**Bold** and _Italic_ and `Code` text
+#### [Dr. Hesham El-Sayed](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=helsayed@uaeu.ac.ae)
+Associate Professor, Networking & Edge Computing
 
-[Link](url) and ![Image](src)
-```
+#### [Dr. Parag Kulkarni](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=parag@uaeu.ac.ae)
+Associate Professor, IoT & Smart Connected System
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### [Dr. Belkacem Nasreddine Abdelkader](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=belkacem@uaeu.ac.ae)
+Assistant Professor, Neuro-Engineering & Brain-Machine Interface
 
-### Jekyll Themes
+#### [Dr. Farag Sallabi](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=f.sallabi@uaeu.ac.ae)
+Associate Professor, Networking & Smart Health
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asiluaeu/CAST-Research-Group/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### [Dr. Moulay Elarbi Badidi](https://cit.uaeu.ac.ae/en/departments/csse/profile.shtml?email=ebadidi@uaeu.ac.ae)
+Associate Professor, Software Eng & Smart Health
 
-### Support or Contact
+#### [Mr. Tony Ng](https://cit.uaeu.ac.ae/en/departments/iss/profile.shtml?email=tonyng@uaeu.ac.ae)
+Instructor, Information Systems & Security
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+## Contact US
+Tel: 03 7135533
+Email: alakas@uaeu.ac.ae
