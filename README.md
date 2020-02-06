@@ -18,30 +18,29 @@ CAST (Connected and Intelligent Autonomous System Research Group) is a leading r
 
 ### Team Members:
  
-[Dr. Abderrahmane Lakas](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=alakas@uaeu.ac.ae),Lead
+#### [Dr. Abderrahmane Lakas](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=alakas@uaeu.ac.ae),Lead
 Associate Professor, Networking & Autonomous Systems
 
-[Dr. Hesham El-Sayed](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=helsayed@uaeu.ac.ae)
+#### [Dr. Hesham El-Sayed](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=helsayed@uaeu.ac.ae)
 Associate Professor, Networking & Edge Computing
 
-##### [Dr. Parag Kulkarni](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=parag@uaeu.ac.ae)
+#### [Dr. Parag Kulkarni](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=parag@uaeu.ac.ae)
 Associate Professor, IoT & Smart Connected System
 
-##### [Dr. Belkacem Nasreddine Abdelkader](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=belkacem@uaeu.ac.ae)
+#### [Dr. Belkacem Nasreddine Abdelkader](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=belkacem@uaeu.ac.ae)
 Assistant Professor, Neuro-Engineering & Brain-Machine Interface
 
-##### [Dr. Farag Sallabi](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=f.sallabi@uaeu.ac.ae)
+#### [Dr. Farag Sallabi](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=f.sallabi@uaeu.ac.ae)
 Associate Professor, Networking & Smart Health
 
-##### [Dr. Moulay Elarbi Badidi](https://cit.uaeu.ac.ae/en/departments/csse/profile.shtml?email=ebadidi@uaeu.ac.ae)
+#### [Dr. Moulay Elarbi Badidi](https://cit.uaeu.ac.ae/en/departments/csse/profile.shtml?email=ebadidi@uaeu.ac.ae)
 Associate Professor, Software Eng & Smart Health
 
-##### [Mr. Tony Ng](https://cit.uaeu.ac.ae/en/departments/iss/profile.shtml?email=tonyng@uaeu.ac.ae)
+#### [Mr. Tony Ng](https://cit.uaeu.ac.ae/en/departments/iss/profile.shtml?email=tonyng@uaeu.ac.ae)
 Instructor, Information Systems & Security
 
 
 
 ### Contact US
-Tel: 03 7135533
-
-Email: alakas@uaeu.ac.ae
+<p> Tel: 03 7135533 </p>
+<p> Email: alakas@uaeu.ac.ae </p>
