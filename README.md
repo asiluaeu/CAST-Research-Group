@@ -1,4 +1,6 @@
-<img align="center" width="300" height="150" src="https://user-images.githubusercontent.com/60743412/74020180-71c58d80-49b2-11ea-921e-99380d39571f.png">  
+<p align="center">
+  <img width="300" height="150" src="https://user-images.githubusercontent.com/60743412/74020694-8b1b0980-49b3-11ea-8c6b-b4fdd55f2819.png">
+</p>
 
 ## About us 
 
