@@ -1,7 +1,9 @@
 ## Research Projects:
 
 ### 1. UAV Support for Search and Rescue Operations:
-![UAV support](https://user-images.githubusercontent.com/60743412/74014657-9288e580-49a8-11ea-8d5a-626e1a4186f9.png)
+<p align="left">
+  <img width="400" height="200" src="https://user-images.githubusercontent.com/60743412/74014657-9288e580-49a8-11ea-8d5a-626e1a4186f9.png">
+</p>
 
 Detection and localization  of disaster victims using RF signal. Site mapping; Path Discovery; Ground-Aerial Vehicles Coordination.
 
