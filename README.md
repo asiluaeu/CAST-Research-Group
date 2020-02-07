@@ -67,29 +67,23 @@ ___
 Instructor, Information Systems & Security
 ___  
 
+   
+      
+      
 
 
 
-<p align="center">
-  <img width="200" height="100" src="https://user-images.githubusercontent.com/60743412/74020694-8b1b0980-49b3-11ea-8c6b-b4fdd55f2819.png">
-</p>
 
-<p align="center"> <h3> Contact & address </h3> </p>
 
-<p align="center">
+### Contact & address
 CAST Research Group   
-<p align="center">
 College of Information Technology (CIT)  
-<p align="center">
-United Arab Emirates University (UAEU)
-<p align="center">
-PO BOX 15551. Al Ain, United Arab Emirates
-<p align="center">
-Tel:+971 (3) 713 5533
-<p align="center">
+United Arab Emirates University (UAEU)  
+PO BOX 15551. Al Ain, United Arab Emirates   
+Tel:+971 (3) 713 5533  
 Email: alakas@uaeu.ac.ae  
 
+
+<p align="lefy">
+  <img width="200" height="100" src="https://user-images.githubusercontent.com/60743412/74020694-8b1b0980-49b3-11ea-8c6b-b4fdd55f2819.png">
 </p>
-
-
-
