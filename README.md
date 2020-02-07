@@ -1,4 +1,6 @@
-## CAST Research Group
+<img align="center" width="300" height="150" src="https://user-images.githubusercontent.com/60743412/74020180-71c58d80-49b2-11ea-921e-99380d39571f.png">  
+
+## About us 
 
 CAST (Connected and Intelligent Autonomous System Research Group) is a leading research group based at UAE University. CAST is primarily engaged with the design and and development of methods and techniques that facilitate the deployment of smart applications based on networked smart autonomous (ground and aerial vehicles), Internet of Things (IoT), and neuro-engineering brain-computer interactions (BCI) applications. The group is composed of dynamic faculty members, researchers and students, as well as world-wide visiting researchers.
 
