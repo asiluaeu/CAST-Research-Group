@@ -65,7 +65,9 @@ ___
 
 #### [Mr. Tony Ng](https://cit.uaeu.ac.ae/en/departments/iss/profile.shtml?email=tonyng@uaeu.ac.ae)
 Instructor, Information Systems & Security
-___  
+___   
+  
+  
 
    
       
@@ -75,7 +77,12 @@ ___
 
 
 
-### Contact & address
+### Contact & address  
+
+<p align="left">
+  <img width="200" height="100" src="https://user-images.githubusercontent.com/60743412/74020694-8b1b0980-49b3-11ea-8c6b-b4fdd55f2819.png">
+</p>  
+
 CAST Research Group   
 College of Information Technology (CIT)  
 United Arab Emirates University (UAEU)  
@@ -84,6 +91,4 @@ Tel:+971 (3) 713 5533
 Email: alakas@uaeu.ac.ae  
 
 
-<p align="lefy">
-  <img width="200" height="100" src="https://user-images.githubusercontent.com/60743412/74020694-8b1b0980-49b3-11ea-8c6b-b4fdd55f2819.png">
-</p>
+
