@@ -75,13 +75,19 @@ ___
 </p>
 
 <p align="center">
-### Contact & address
+<h3> Contact & address </h3>
 
+<p align="center">
 CAST Research Group   
-College of Information Technology (CIT)   
-United Arab Emirates University (UAEU)   
-PO BOX 15551. Al Ain, United Arab Emirates   
-Tel:+971 (3) 713 5533   
+<p align="center">
+College of Information Technology (CIT)  
+<p align="center">
+United Arab Emirates University (UAEU)
+<p align="center">
+PO BOX 15551. Al Ain, United Arab Emirates
+<p align="center">
+Tel:+971 (3) 713 5533
+<p align="center">
 Email: alakas@uaeu.ac.ae  
 
 </p>
