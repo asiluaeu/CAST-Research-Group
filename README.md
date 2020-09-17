@@ -1,6 +1,6 @@
 ## About us 
 
-CAST (Connected and Intelligent Autonomous System Research Group) is a leading research group based at UAE University. CAST is primarily engaged with the design and and development of methods and techniques that facilitate the deployment of smart applications based on networked smart autonomous (ground and aerial vehicles), Internet of Things (IoT), and neuro-engineering brain-computer interactions (BCI) applications. The group is composed of dynamic faculty members, researchers and students, as well as world-wide visiting researchers.
+CAST (Connected and Intelligent Autonomous System Research Group) is a leading research group based at UAE University. CAST is primarily engaged with the research and development of networked autonomous unmanned systems. Researchers this group are concerned with the design and developmentmethods and techniques that facilitate the deployment of smart applications based on networked smart ground and aerial vehicles, Internet of Things (IoT) platforms, Edge computing, and Neuro-engineering brain-computer interactions (BCI) applications. The group is composed of dynamic faculty members, researchers and students, as well as world-wide visiting researchers.
 
 
 
@@ -24,13 +24,13 @@ CAST (Connected and Intelligent Autonomous System Research Group) is a leading r
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/60743412/74016821-7edf7e00-49ac-11ea-85d5-278cfb1bb8ba.png">
 
 #### [Dr. Abderrahmane Lakas](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=alakas@uaeu.ac.ae),Lead
-Associate Professor, Networking & Autonomous Systems
+Professor, Networking & Autonomous Systems
 ___
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/60743412/74016810-7b4bf700-49ac-11ea-9511-9389b3f7075e.png">
 
 #### [Dr. Hesham El-Sayed](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=helsayed@uaeu.ac.ae)
-Associate Professor, Networking & Edge Computing
+Professor, Networking & Edge Computing
 ___
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/60743412/74016818-7dae5100-49ac-11ea-865a-07f8b10d9c81.png">
@@ -46,18 +46,17 @@ ___
 Assistant Professor, Neuro-Engineering & Brain-Machine Interface
 ___
 
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/60743412/74016799-771fd980-49ac-11ea-9e1e-6cc58245df28.png">
+
+#### [Dr. Moulay Elarbi Badidi](https://cit.uaeu.ac.ae/en/departments/csse/profile.shtml?email=ebadidi@uaeu.ac.ae)
+Associate Professor, Software Eng & Smart Health
+___
+
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/60743412/74016815-7c7d2400-49ac-11ea-89ab-de1979196017.png">
 
 #### [Dr. Farag Sallabi](https://cit.uaeu.ac.ae/en/departments/cne/profile.shtml?email=f.sallabi@uaeu.ac.ae)
 Associate Professor, Networking & Smart Health
-___
-
-
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/60743412/74016799-771fd980-49ac-11ea-9e1e-6cc58245df28.png">
-
-#### [Dr. Moulay Elarbi Badidi](https://cit.uaeu.ac.ae/en/departments/csse/profile.shtml?email=ebadidi@uaeu.ac.ae)
-Associate Professor, Software Eng & Smart Health
 ___
 
 
