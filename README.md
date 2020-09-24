@@ -62,6 +62,7 @@ ___
 Associate Professor, Computer and Network Department
 Networking & Smart Health, IoT
 
+
 ___
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/60743412/74016812-7be48d80-49ac-11ea-8614-ec9ef9dd91b5.png">
 
